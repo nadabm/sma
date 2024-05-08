@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Recherche-d-information---Multi-Agents-master/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Recherche-d-information---Multi-Agents-master/lib/jade.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Recherche-d-information---Multi-Agents-master/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
